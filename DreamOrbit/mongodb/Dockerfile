@@ -1,4 +1,4 @@
-FROM dd/mongo_base:latest
+FROM dreamorbit/mongo_base:latest
 
 MAINTAINER dreamorbit<saibaba.nadh@dreamorbit.com>
 

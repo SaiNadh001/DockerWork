@@ -1,4 +1,4 @@
-FROM dd/node_base:latest
+FROM dreamorbit/node_base:latest
 
 MAINTAINER dreamorbit<saibaba.nadh@dreamorbit.com>
 

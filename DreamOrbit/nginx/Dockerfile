@@ -1,4 +1,4 @@
-FROM dd/nginx_base:latest
+FROM dreamorbit/nginx_base:latest
 
 MAINTAINER dreamorbit<saibaba.nadh@dreamorbit.com>
 
